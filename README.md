@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Imane  
+Hi, I'm Imane  
 
 I am a **Data Analyst** with a focus on **data visualization**, **Excel**, **Tableau**, and **Python**. 
 I am passionate about using data to drive decisions and create insights. Currently, I’m working on building my portfolio with projects involving **business intelligence**, **data dashboards**, and **data analysis**.
